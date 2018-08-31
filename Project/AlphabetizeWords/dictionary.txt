@@ -1,0 +1,8 @@
+hello
+goodbye
+apple
+buck
+dollar
+zebra
+pizza
+goodbye

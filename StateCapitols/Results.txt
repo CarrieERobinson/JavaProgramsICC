@@ -1,0 +1,106 @@
+RESULTS:  Carrie
+WRONG ANSWERS:
+#2:
+	Your answer: idk
+	Correct answer: Concord
+#3:
+	Your answer: idk
+	Correct answer: Cheyenne
+#4:
+	Your answer: idk
+	Correct answer: Frankfort
+#5:
+	Your answer: idk
+	Correct answer: Richmond
+#7:
+	Your answer: idk
+	Correct answer: Pierre
+#8:
+	Your answer: idk
+	Correct answer: Jackson
+#9:
+	Your answer: Jacksonville
+	Correct answer: Tallahassee
+#10:
+	Your answer: idk
+	Correct answer: Trenton
+#11:
+	Your answer: idk
+	Correct answer: Raleigh
+#12:
+	Your answer: oklahoma
+	Correct answer: Oklahoma City
+#13:
+	Your answer: idk
+	Correct answer: Hartford
+#15:
+	Your answer: Sierra
+	Correct answer: Carson City
+#17:
+	Your answer: idk
+	Correct answer: Columbia
+#18:
+	Your answer: idk
+	Correct answer: Helena
+#20:
+	Your answer: philidalphia
+	Correct answer: Harrisburg
+#22:
+	Your answer: idk
+	Correct answer: Montgomery
+#23:
+	Your answer: idk
+	Correct answer: Madison
+#25:
+	Your answer: idk
+	Correct answer: Des Moines
+#26:
+	Your answer: idk
+	Correct answer: Providence
+#27:
+	Your answer: kansas city
+	Correct answer: Topeka
+#29:
+	Your answer: idk
+	Correct answer: Annapolis
+#30:
+	Your answer: idk
+	Correct answer: Bismarck
+#32:
+	Your answer: san diego
+	Correct answer: Sacramento
+#34:
+	Your answer: idk
+	Correct answer: Lansing
+#35:
+	Your answer: Portland
+	Correct answer: Salem
+#37:
+	Your answer: idk
+	Correct answer: Augusta
+#38:
+	Your answer: idk
+	Correct answer: Montpelier
+#39:
+	Your answer: idk
+	Correct answer: Charleston
+#40:
+	Your answer: idk
+	Correct answer: Lincoln
+#41:
+	Your answer: idk
+	Correct answer: Olympia
+#43:
+	Your answer: idk
+	Correct answer: Boise
+#46:
+	Your answer: idk
+	Correct answer: Jefferson City
+#47:
+	Your answer: idk
+	Correct answer: Dover
+#50:
+	Your answer: idk
+	Correct answer: Santa Fe
+You got 16 out of 50 correct!
+32.00%

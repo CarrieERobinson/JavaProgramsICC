@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Cuboid">
+  <ClassDiagramComponents>
+    <Class name="Cuboid" package="cuboidmain2" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="height" type="T" visibility="private"/>
+        <Field name="breadth" type="T" visibility="private"/>
+        <Field name="length" type="T" visibility="private"/>
+        <Field name="volume" type="double" visibility="private"/>
+      </Fields>
+      <Constructors/>
+      <Methods>
+        <Method name="getVolume" returnType="double" visibility="public"/>
+        <Method name="getHeight" returnType="T" visibility="public"/>
+        <Method name="setHeight" returnType="void" visibility="public">
+          <Argument type="T" name="height"/>
+        </Method>
+        <Method name="getBreadth" returnType="T" visibility="public"/>
+        <Method name="setBreadth" returnType="void" visibility="public">
+          <Argument type="T" name="breadth"/>
+        </Method>
+        <Method name="getLength" returnType="T" visibility="public"/>
+        <Method name="setLength" returnType="void" visibility="public">
+          <Argument type="T" name="length"/>
+        </Method>
+        <Method name="toString" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>

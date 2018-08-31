@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="Map">
+  <ClassDiagramComponents>
+    <Class name="Map" package="mapprogram" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields>
+        <Field name="key" type="int" visibility="private"/>
+        <Field name="value" type="E" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public">
+          <Argument type="int" name="key"/>
+          <Argument type="E" name="value"/>
+        </Constructor>
+      </Constructors>
+      <Methods>
+        <Method name="getKey" returnType="int" visibility="public"/>
+        <Method name="setKey" returnType="void" visibility="public">
+          <Argument type="int" name="key"/>
+        </Method>
+        <Method name="getValue" returnType="E" visibility="public"/>
+        <Method name="setValue" returnType="void" visibility="public">
+          <Argument type="E" name="value"/>
+        </Method>
+        <Method name="toString" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
